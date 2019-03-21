@@ -1,0 +1,27 @@
+{
+  "name": "chat-socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLuchtenberg/socketio-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GLuchtenberg/socketio-chat/issues"
+  },
+  "homepage": "https://github.com/GLuchtenberg/socketio-chat#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
